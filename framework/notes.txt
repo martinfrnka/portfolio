@@ -1,3 +1,5 @@
 placehold.it
 	snadné vytváření placeholder obrázků (šedý obdélník s vypsaným rozměrem)
 
+	snadné použití: http://placehold.it/WIDTHxHEIGHT vrátí požadovaný obrázek, možno použít i přímo v kódu
+	<img src="http://placehold.it/350x150"> vykreslí požadovaný obrázek 
