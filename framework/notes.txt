@@ -1,0 +1,3 @@
+placehold.it
+	snadné vytváření placeholder obrázků (šedý obdélník s vypsaným rozměrem)
+
