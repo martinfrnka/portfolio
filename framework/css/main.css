@@ -1,12 +1,15 @@
 * {
+	font-family: 'Maven Pro', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	color: #7C8B88
+}
+
+x {
 	border: 1px solid red !important;
-	font-family: 'Lato', sans-serif;
 }
 
-h1 {
-	color: green;
-}
 
+/*
 @media only screen and (max-width: 700px) {
 	p {
 		color: red;
@@ -17,6 +20,13 @@ h1 {
 	p {
 		display: none;
 	}
+}
+*/
+
+.wrapper-general {
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .row {
@@ -74,3 +84,19 @@ h1 {
 	width: 100%;
 }
 
+h1 {
+	color: white;
+	background-color: #2FBEBD;
+	font-size: 40px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
+
+p {
+
+	font-size: 24px;
+	margin: 0px;
+	margin-left: 30px;
+
+}
